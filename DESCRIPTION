@@ -1,0 +1,9 @@
+Package: mytestpackage
+Type: Package
+Version: 0.0-1
+Author: Sur Herrera Paredes
+Maintainer: Sur <sur00mx@gmail.com>
+License: GPL-3
+Imports:
+  MASS
+RoxygenNote: 6.0.1
